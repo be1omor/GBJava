@@ -7,10 +7,10 @@ public class task4 {
         // в String and StringBuilder
 
         long start = System.currentTimeMillis();
-        String s = "";
-        for (int i = 0; i < 100000; i++) {
-            s += Character.getName(i);
-        }
+        // String s = "";
+        // for (int i = 0; i < 100000; i++) {
+        //     s += Character.getName(i);
+        // }
 
         long end = System.currentTimeMillis();
         System.out.println(end - start);

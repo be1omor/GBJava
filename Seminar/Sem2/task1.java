@@ -62,7 +62,7 @@ public class task1 {
         String stringForFind = "qwe";
         String mainString = "asd asd qwe asd as";
 
-        String[] stringArray = mainString.split(" ");
+        // String[] stringArray = mainString.split(" ");
 
         int temp = 0;
 
